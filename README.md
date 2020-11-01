@@ -4,5 +4,5 @@ https://archive.org/download/los-nuevos-mutantes-latino-sd/Los%20Nuevos%20Mutant
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_divide_the_fallout-709003562-mmed.jpg" group-title="CINE SD", aislados sd-480p latino
 https://archive.org/download/aislados-sd-480p-latino/Aislados%20SD%20%28480p%29%20LATINO.mp4
 
-#EXTINF:-1 tvg-logo="LOLA.png" group-title="CINE SD", los nuevos mutantes latino sd
+#EXTINF:-1 tvg-logo="LOLA.png" group-title="CINE SD", lola sd
 https://archive.org/download/lola_20201101_202011/LOLA.mp4
