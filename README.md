@@ -5,4 +5,4 @@ https://archive.org/download/los-nuevos-mutantes-latino-sd/Los%20Nuevos%20Mutant
 https://archive.org/download/aislados-sd-480p-latino/Aislados%20SD%20%28480p%29%20LATINO.mp4
 
 #EXTINF:-1 tvg-logo="LOLA.jpg" group-title="CINE SD", Cyberpunk_2077_Teaser_Trailer.135
-https://archive.org/download/lola_20201101/LOLA.mp4
+https://ia801406.us.archive.org/19/items/lola_20201101/LOLA.mp4
